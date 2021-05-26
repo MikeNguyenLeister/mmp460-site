@@ -75,10 +75,11 @@ body{
   display:none;
 }
 
+/*
 .wrapper2{
   display: none;
 
-}
+}*/
 
 
 
@@ -257,10 +258,7 @@ body{
 }
 
 
-#wrapper{
 
-  display:none;
-}
 
  #desktop{
   display: none;
@@ -373,7 +371,7 @@ color: #a40ec8 ; opacity: .6;
   display: table;
 }    */
 
-.wrapper2{
+#wrapper{
 
   max-width: 100%;
   margin: 0 auto;
