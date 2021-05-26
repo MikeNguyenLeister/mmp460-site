@@ -75,6 +75,11 @@ body{
   display:none;
 }
 
+#wrapper2{
+  display: none;
+
+}
+
 
 
 h1{
@@ -252,6 +257,10 @@ body{
 }
 
 
+#wrapper{
+
+  display:none;
+}
 
  #desktop{
   display: none;
@@ -364,7 +373,7 @@ color: #a40ec8 ; opacity: .6;
   display: table;
 } 
 
-#wrapper{
+#wrapper2{
 
   max-width: 100%;
   margin: 0 auto;
