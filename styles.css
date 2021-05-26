@@ -123,7 +123,7 @@ color: #ffc449; opacity: .8;
 
 
 
-#wrapper{
+.wrapper{
 
   max-width: 77%;
   margin: 0 auto;
@@ -374,7 +374,7 @@ color: #a40ec8 ; opacity: .6;
   display: table;
 }    */
 
-#wrapper{
+.wrapper{
 
   max-width: 100%;
   margin: 0 auto;
