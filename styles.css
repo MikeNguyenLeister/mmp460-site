@@ -366,12 +366,12 @@ color: #a40ec8 ; opacity: .6;
 
 }
 
-
+/*
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
-} 
+}    */
 
 #wrapper2{
 
